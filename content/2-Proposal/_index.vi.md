@@ -1,6 +1,6 @@
 ---
 title: "Bản đề xuất"
-date: 2024-07-04
+date: 2026-07-04
 weight: 2
 chapter: false
 pre: " <b> 2. </b> "
