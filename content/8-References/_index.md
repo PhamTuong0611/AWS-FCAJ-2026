@@ -1,9 +1,9 @@
 ---
 title: "References"
 date: 2026-07-04
-weight: 2
+weight: 8
 chapter: false
-pre: " <b> 2. </b> "
+pre: " <b> 8. </b> "
 ---
 
 ## Blog Posts
