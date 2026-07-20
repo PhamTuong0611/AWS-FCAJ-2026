@@ -11,4 +11,6 @@ pre: " <b> 8. </b> "
 2. Tìm hiểu cách chạy ứng dụng web truyền thống trên AWS Nitro Enclaves mà không cần sửa mã nguồn: https://www.facebook.com/share/p/1GD9CtuHik/
 3. AWS Pricing Calculator: https://www.facebook.com/share/p/18MB3hwy2g/
 ## Dự án
-https://d1gdsnv8exdah.cloudfront.net/workspace/
+https://d1gdsnv8exdah.cloudfront.net/login/
+## Video minh họa
+https://youtu.be/784lTQMB2YU
