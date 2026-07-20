@@ -11,4 +11,6 @@ pre: " <b> 8. </b> "
 2. How to run traditional web applications on Aws Nitro Enclaves without modifying the source code: https://www.facebook.com/share/p/1GD9CtuHik/
 3. AWS Pricing Calculator: https://www.facebook.com/share/p/18MB3hwy2g/
 ## Project
-https://d1gdsnv8exdah.cloudfront.net/workspace/
+https://d1gdsnv8exdah.cloudfront.net/login/
+## Video Demo
+https://youtu.be/784lTQMB2YU
